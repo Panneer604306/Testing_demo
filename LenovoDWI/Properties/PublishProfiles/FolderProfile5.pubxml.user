@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\TLSPC-145\Desktop\Panneerselvam\RTY\backend\LenovoDWI\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2023-11-16T05:47:28.8915197Z;True|2023-11-16T11:17:15.0434382+05:30;True|2023-11-16T00:51:18.3299521+05:30;</History>
+  </PropertyGroup>
+</Project>
