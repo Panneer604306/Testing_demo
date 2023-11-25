@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TQFaEQ3s+G9aLHuLIyy9f7z5/18GwxzzYQiIc1Ev/4bB/HvH77N41B6zCs5DbKo8v/YxoykfNe6215BK8X0mXw==",
+  "dgSpecHash": "iZhg5hYvE79nFwM73MKWyl59LD8kUh2oz8SKJ+IpGmBVNPGdW+d9hcgfsT1MeRjLLjtyeTCfTHpqdlmJ0/ZP1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\LenovoDWI\\LenovoDWI.csproj",
+  "projectFilePath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\LenovoDWI\\LenovoDWI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TLSPC-145\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\TLSPC-145\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

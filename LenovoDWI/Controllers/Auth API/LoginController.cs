@@ -83,6 +83,7 @@ namespace DWIApplication.Controllers
         {
             try
             {
+                //Email Notification purpose checking in the testing purpose due to taking the session
                 if (EmailId != null)
                 {
                     string Connectionstring = _configuration.GetConnectionString("Default");

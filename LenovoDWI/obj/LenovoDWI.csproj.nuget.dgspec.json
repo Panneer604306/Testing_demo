@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\LenovoDWI\\LenovoDWI.csproj": {}
+    "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\LenovoDWI\\LenovoDWI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\TLSPC-145\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,8 +33,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\DataLayer\\DataLayer.csproj"
+              "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\DataLayer\\DataLayer.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessModels\\BusinessModels.csproj": {
+    "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessModels\\BusinessModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessModels\\BusinessModels.csproj",
+        "projectUniqueName": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessModels\\BusinessModels.csproj",
         "projectName": "BusinessModels",
-        "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessModels\\BusinessModels.csproj",
+        "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessModels\\BusinessModels.csproj",
         "packagesPath": "C:\\Users\\TLSPC-145\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessModels\\obj\\",
+        "outputPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\DataLayer\\DataLayer.csproj": {
+    "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\DataLayer\\DataLayer.csproj",
+        "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\TLSPC-145\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\DataLayer\\obj\\",
+        "outputPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -171,8 +171,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessModels\\BusinessModels.csproj": {
-                "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessModels\\BusinessModels.csproj"
+              "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessModels\\BusinessModels.csproj": {
+                "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessModels\\BusinessModels.csproj"
               }
             }
           }
@@ -215,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\LenovoDWI\\LenovoDWI.csproj": {
+    "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\LenovoDWI\\LenovoDWI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\LenovoDWI\\LenovoDWI.csproj",
+        "projectUniqueName": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\LenovoDWI\\LenovoDWI.csproj",
         "projectName": "LenovoDWI",
-        "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\LenovoDWI\\LenovoDWI.csproj",
+        "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\LenovoDWI\\LenovoDWI.csproj",
         "packagesPath": "C:\\Users\\TLSPC-145\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\LenovoDWI\\obj\\",
+        "outputPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\LenovoDWI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -244,11 +244,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessLayer\\BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessLayer\\BusinessLayer.csproj"
+              "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessLayer\\BusinessLayer.csproj"
               },
-              "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessModels\\BusinessModels.csproj": {
-                "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessModels\\BusinessModels.csproj"
+              "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessModels\\BusinessModels.csproj": {
+                "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessModels\\BusinessModels.csproj"
               }
             }
           }

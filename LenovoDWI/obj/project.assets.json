@@ -5424,11 +5424,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\LenovoDWI\\LenovoDWI.csproj",
+      "projectUniqueName": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\LenovoDWI\\LenovoDWI.csproj",
       "projectName": "LenovoDWI",
-      "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\LenovoDWI\\LenovoDWI.csproj",
+      "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\LenovoDWI\\LenovoDWI.csproj",
       "packagesPath": "C:\\Users\\TLSPC-145\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\LenovoDWI\\obj\\",
+      "outputPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\LenovoDWI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5450,11 +5450,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessModels\\BusinessModels.csproj": {
-              "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Panneerselvam\\RTY\\backend\\BusinessModels\\BusinessModels.csproj"
+            "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessModels\\BusinessModels.csproj": {
+              "projectPath": "C:\\Users\\TLSPC-145\\Desktop\\Testing_delete\\Testing_demo\\BusinessModels\\BusinessModels.csproj"
             }
           }
         }
