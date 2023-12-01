@@ -79,6 +79,8 @@ namespace DWIApplication.Controllers
         [AllowAnonymous]
         [HttpGet]
         [Route("ForgetPassword")]
+
+        //Testing purpose validation
         public IActionResult ForgetPassword(string EmailId)
         {
             try
