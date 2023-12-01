@@ -124,6 +124,8 @@ namespace DWIApplication.Controllers
                         _sentToMail.SentMail(login.Data.EmailId, subject, body);
                         login.Message = "Mail sent through your mail";
                         return new JsonResult(login);
+                        //return new JsonResult(login);
+                        //return new JsonResult(login);
                     }
                     else
                     {
