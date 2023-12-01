@@ -106,6 +106,7 @@ namespace DWIApplication.Controllers
                         string pathToFile = Path.Combine(_hostingEnvironment.ContentRootPath, "MailTemplates", "HtmlTemplates", "htmlpage.html");
                         string subject = "Forget Password";
                         string body = string.Empty;
+                        //string body = string.Empty;
                         string fname = login.Data.FirstName;
                         string lname = login.Data.LastName;
                         string email = login.Data.EmailId;
